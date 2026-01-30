@@ -3,3 +3,9 @@ ipykernel
 faiss-cpu
 qdrant-client
 requests
+
+chromadb
+
+pinecone
+
+weaviate-client
