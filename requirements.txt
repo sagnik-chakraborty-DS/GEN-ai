@@ -1,0 +1,5 @@
+ipykernel
+
+faiss-cpu
+qdrant-client
+requests
